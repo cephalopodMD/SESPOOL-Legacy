@@ -7,7 +7,9 @@ The SESPOOL (Simple English Syntaxed Pragma Object Oriented Language) python com
   
   the philosophy of SESPOOL http://boffodev.org/?p=52
 
-Requires the natural language toolkit library (nltk)
+Requires the natural language toolkit library (nltk) for your python environment
+
+    http://nltk.org/install.html
 
 To run: enter in python shell shell 
     
